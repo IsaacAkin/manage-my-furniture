@@ -1,0 +1,16 @@
+{
+  "name": "manage-my-furniture",
+  "version": "1.0.0",
+  "description": "Furniture management application",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Isaac Akinsanya",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "mysql2": "^3.12.0"
+  }
+}
